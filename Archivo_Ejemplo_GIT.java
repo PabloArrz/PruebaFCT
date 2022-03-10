@@ -5,7 +5,7 @@ public class Ejemplo{
             System.out.println(i);
             numeros[i] = i;
         }
-        getBiggest(arr);
+        getBiggest(numeros);
     }
 
     public static void getBiggest(int[] arr) {
